@@ -3,8 +3,7 @@
 
 - 📫 How to reach me:
   - Email: **leianmykecastillo@gmail.com**
-  - LinkedIn: [Leian Myke Castillo](https://www.linkedin.com/in/leian-myke-castillo-419713239/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg)
-  - 
+  - LinkedIn: [Leian Myke Castillo](https://www.linkedin.com/in/leian-myke-castillo-419713239/)
 <p align="left">
 </p>
 
