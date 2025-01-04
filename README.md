@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leian Myke Castillo</h1>
 <h3 align="center">A passionate IT student eager to learn and grow by exploring new technologies and enhancing my development skills.</h3>
 
-- 📫 How to reach me **leianmykecastillo@gmail.com**
-
+- 📫 How to reach me:
+  - Email: **leianmykecastillo@gmail.com**
+  - LinkedIn: [Leian Myke Castillo](https://www.linkedin.com/in/leian-myke-castillo-419713239/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg)
+  - 
 <p align="left">
 </p>
 
